@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RoboElectricDemo</string>
+    <string name="hello_robolectric">Hello Robolectric!</string>
+    <string name="start">Start</string>
+    <string name="home_activity">Home Activity</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="demo_fragment">Demo Fragment</string>
+</resources>
